@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.resources.Identifier;
 
+import net.morgan.mod.creativemodetab.ModCreativeModeTabs;
 import net.morgan.mod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -20,6 +21,8 @@ public class TutorialMod implements ModInitializer {
     // However, some things (like resources) may still be uninitialized.
 	@Override
 	public void onInitialize() {
+
+        ModCreativeModeTabs.registerModCreativeTabs();
 
 
 		ModItems.registerModItems();
