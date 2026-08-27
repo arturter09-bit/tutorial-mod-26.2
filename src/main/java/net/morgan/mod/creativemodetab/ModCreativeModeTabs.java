@@ -8,6 +8,7 @@ import net.minecraft.resources.Identifier;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.morgan.mod.TutorialMod;
+import net.morgan.mod.block.ModBlocks;
 import net.morgan.mod.item.ModItems;
 
 public class ModCreativeModeTabs {
@@ -19,6 +20,7 @@ public class ModCreativeModeTabs {
                     .displayItems((parameters, output) -> {
                         output.accept(ModItems.RICE);
                         output.accept(ModItems.BOWL_OF_RICE);
+                        output.accept(ModBlocks.RICE_BLOCK);
 
 
                     }).build());

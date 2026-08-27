@@ -1,7 +1,10 @@
 // 26.2	-999999999-01-01T00:00:00	Tutorial Mod/Model Definitions
+22457ada7cebbfd8bc8c349bca92b34af8f08c69 assets/tutorial-mod/blockstates/rice_block.json
 8dc97f7b889e07aff9409d79fc8371930bd1135e assets/tutorial-mod/items/bowl_of_rice.json
 ae16ec3ec526e8eb9f2e0f55e5dd082a64f7d427 assets/tutorial-mod/items/cooked_rice.json
 5960dccb4bf405169b19c6985e0c58d5db35f176 assets/tutorial-mod/items/rice.json
+f5fd6a6dede628c12f687159fe2fafe18955268a assets/tutorial-mod/items/rice_block.json
+94e05f840e798de3840284fce04dad78ef34e81f assets/tutorial-mod/models/block/rice_block.json
 dccdc7eb97f2b7070d561ceef0132eb717ac857b assets/tutorial-mod/models/item/bowl_of_rice.json
 30474d09509f0faa5b3e5d1b817c9fbead8d2825 assets/tutorial-mod/models/item/cooked_rice.json
 e7180fe90d4bb5524744b66f691d4eeea023999c assets/tutorial-mod/models/item/rice.json
